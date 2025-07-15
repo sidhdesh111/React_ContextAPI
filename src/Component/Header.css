@@ -1,0 +1,22 @@
+header {
+    padding: 2rem;
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+li {
+    list-style: none;
+    color: #222;
+    font-size: 1.5rem;
+}

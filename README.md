@@ -34,7 +34,7 @@ To get this project up and running on your local machine:
     ```
 2.  **Navigate into the project directory:**
     ```bash
-    cd react-context-cart
+    cd React_ContextAPI
     ```
 3.  **Install dependencies:**
     ```bash
@@ -83,7 +83,6 @@ Once the application is running:
 ## ✒️ Author
 
 * **[Sidhdesh Srivastava/Alias]** - [Your GitHub Profile Link (e.g., `https://github.com/sidhdesh111`)]
-* [Your LinkedIn Profile Link (Optional)]
 
 ## 📄 License
 

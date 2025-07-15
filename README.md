@@ -30,7 +30,7 @@ To get this project up and running on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/react-context-cart.git](https://github.com/your-username/react-context-cart.git)
+    git clone [https://github.com/sidhdesh111/React_ContextAPI.git](https://github.com/sidhdesh111/React_ContextAPI.git)
     ```
 2.  **Navigate into the project directory:**
     ```bash
@@ -82,7 +82,7 @@ Once the application is running:
 
 ## ✒️ Author
 
-* **[Your Name/Alias]** - [Your GitHub Profile Link (e.g., `https://github.com/sidduheshsrivastav`)]
+* **[Sidhdesh Srivastava/Alias]** - [Your GitHub Profile Link (e.g., `https://github.com/sidhdesh111`)]
 * [Your LinkedIn Profile Link (Optional)]
 
 ## 📄 License

@@ -1,4 +1,4 @@
-# React Shopping Cart with Context API & useReducer
+# React Shopping Cart with Context API 
 
 This project demonstrates a robust and scalable shopping cart application built with React, leveraging the Context API for global state management and the `useReducer` hook for complex state logic. It focuses on clean architecture, performance considerations, and an intuitive user experience.
 
@@ -18,7 +18,6 @@ This project demonstrates a robust and scalable shopping cart application built 
 
 * **React (v18+)**: Frontend library for building user interfaces.
 * **React Context API**: For efficient, global state management across components without prop-drilling.
-* **`useReducer` Hook**: For managing complex state transitions within the cart logic, providing a more predictable and scalable alternative to multiple `useState` calls.
 * **React Router Dom (v6+)**: For seamless, client-side navigation (if multiple pages like product detail/checkout are implemented).
 * **JavaScript (ES6+)**: Core programming language.
 * **HTML5 / CSS3**: For structuring and styling the application.
